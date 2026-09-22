@@ -1,3 +1,3 @@
-Evaluations of NHL Players using an experimental Energy-Norm Tikhonov Regulation. 
+Evaluating NHL Players using an experimental Energy-Norm Tikhonov Regression. 
 
 Paper following code: https://drive.google.com/file/d/1y7xPNdXRP_ROxERuFYlTSL_Cy-EKHCqV/view?usp=sharing
